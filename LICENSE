@@ -1,0 +1,56 @@
+# DEFENSIVE PRIOR ART DECLARATION AND OPEN REVERSE-LOGIC LICENSE (DPAL)
+## RE: Plasmonic Optically-Driven Latched Logic (POLL) Architecture
+
+**Author & First Inventor:** Juho Artturi Hemminki  
+**Licensing & Rights Management Inquiries:** projectflagcarrier@gmail.com  
+**Publication Date:** September 18, 2026  
+
+---
+
+### PREAMBLE & STATEMENT OF NOVELTY
+
+This document establishes a definitive, public defensive prior art disclosure and defensive license framework for the **Plasmonic Optically-Driven Latched Logic (POLL)** microchip architecture. 
+
+The semiconductor industry is severely bounded by thermal limitations (Dennard scaling limits) and resistance-capacitance (RC) interconnect delays native to horizontal metallic wires. The POLL architecture represents a radical paradigm shift establishing **genuine global novelty** over classical CMOS and silicon photonics through an interconnected matrix of three core inventions:
+
+1. **Inverted Negative-Logic via Rest-State Conduction:** Every processing gate on the chip is structurally engineered to be **permanently ON (State 1)** at rest with near-zero power dissipation via ballistic graphene ribbon networks or superconducting Josephson junctions, using energy exclusively to force a gate into a non-conductive phase (**State 0**).
+2. **Wireless Z-Axis Addressing Matrix:** The total omission of structural horizontal electrical clock and data address lines, utilizing an external multi-wavelength overhead emitter array coupled with a localized vertical nanometre-scale waveguide piping array (**Nanoputkistot**) running Surface Plasmon Polaritons (SPPs) to compress light past the Abbe diffraction limit.
+3. **Sub-Surface Localized Optoelectronic Latching:** Memory preservation independent of continuous external illumination via an autonomous local voltage-triggered feedback loop embedded directly underneath individual gate nodes.
+
+---
+
+### CORE PATENT CLAIMS & NOVEL SPECIFICATIONS
+
+The author asserts definitive prior art rights over the following distinct structural and logical claims:
+
+#### Claim 1: The Inverted Rest-State Conducting Processor
+A computing core architecture wherein the absolute default, unpowered, and un-illuminated state of all logic-switching transistor channels corresponds to a logical "1" (fully conductive), characterized by the total utilization of ballistic charge transport channels or superconducting junctions as the native baseline state, such that dynamic power is consumed exclusively during transitions to and maintenance of logical "0" (insulated/chapped state).
+
+#### Claim 2: Spatial WDM Sub-Wavelength Optical Control Structure
+An interconnect-free spatial control mechanism situated on the Z-axis above the computing substrate, comprising:
+- An overhead, non-moving optical phased emitter array generating complex multi-wavelength superposition light waves;
+- A surface-integrated photonic crystal spectral demultiplexing layer mapping specific geographic logic addresses to discrete optical frequencies ($\omega_n$);
+- A dense vertical forest of graphene-lined or carbon nanotube (CNT) plasmonic waveguides (*nanoputkistot*) engineered to convert incoming photons into Surface Plasmon Polaritons (SPPs), shrinking the effective wavelength below the classical free-space Abbe diffraction limit to target individual nanometre-scale gate channels.
+
+#### Claim 3: Two-Transistor Series Universal NAND Logic Gate
+A universal logic primitive structural design consisting exclusively of **two POLL transistors wired in sequence (series configuration)** without parallel pull-up networks, wherein the output state defaults to a conductive logical "1" and shifts to a logical "0" if and only if both series gates are actively illuminated by their respective designated spectral frequencies simultaneously.
+
+#### Claim 4: Sub-Surface Autonomous Optoelectronic State Latching
+A volatile state preservation and latching apparatus embedded inside the substrate directly below each logic switching node, characterized by:
+- An integrated quantum-confined light source (nano-LED or quantum dot) configured to activate in response to a local voltage spike induced when the primary transistor channel enters a highly resistive State 0;
+- A dedicated reflective cavity feedback path routing this localized light directly onto a photo-gate adjacent to the primary channel, sustaining State 0 completely independent of the external overhead emitter matrix until a global voltage clear ($\text{Clr}$) signal resets the substrate array.
+
+#### Claim 5: Zero-Overhead Hardware/Compiler Abstraction Layer
+A processing boundary framework configured to execute legacy positive-logic binaries (e.g., standard x86, ARM, or C++ compilations) on the negative-logic POLL architecture without code modification, comprising:
+- A specialized LLVM backend engine executing bitwise logical NOT inversions on instructions during compile-time;
+- A hardware complementary mapping array using cross-wired register sense amplifiers to report a standard positive digital logic "1" externally when the internal channel is physically un-powered and un-illuminated.
+
+---
+
+### DEFENSIVE PRIOR ART LICENSE TERMS
+
+To prevent predatory patenting, corporate encapsulation, or the restriction of this architecture's development, the Author establishes the following licensing guidelines:
+
+1. **Prior Art Establishment:** This documentation serves as a public, globally indexable disclosure of the specified technologies. Any subsequent patent application by external entities containing claims to wireless Z-axis plasmonic nanopipe array logic gating or inverted rest-conductive series NAND layouts shall be deemed anticipated by this prior art disclosure under global patent frameworks.
+2. **Defensive Open Access Authorization:** Individuals, research collectives, and open hardware consortiums are granted an open, royalty-free license to simulate, prototype, and manufacture POLL structures for experimental and non-commercial development.
+3. **Commercial & IP Protection Restrictions:** Commercial manufacturing, licensing integration into proprietary semiconductor fabrics, or modification of the POLL ecosystem for commercial deployment is strictly forbidden without direct prior authorization. For commercial inquiries, validation rights, or customized technology transfers, parties must submit formal proposals to: **projectflagcarrier@gmail.com**.
